@@ -1,5 +1,6 @@
 # Portable Weather Station
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! 
+I chose the portable weather station because at first I thought it was a really asthetic looking machine and when I saw it I thought I could maybe take it further like adding a alarm clock or being able to add the radio on it or since it will be connected to the internet I can add wallpapers and maybe even bluetooth. I saw so many possibilitys within this project and knew I had to choose it.
+
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
