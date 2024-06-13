@@ -23,7 +23,7 @@ Video link:
 
 
 
-Description:
+# Description
 
 For my starter project, I chose to build a calculator because I thought it would be a cool way to understand the basic mechanics of a device we use for simple math calculations every day. The process was quite challenging: I initially mixed up the steps, which took a while to correct, and my soldering iron was subpar, making it difficult to melt the solder wire properly. Additionally, assembling the plates was very frustrating due to the tiny and loose screws. Despite these obstacles, the experience was bittersweet. Completing the project and seeing the calculator work was incredibly satisfying, making all the effort and frustration worthwhile.
 
