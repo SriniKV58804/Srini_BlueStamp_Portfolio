@@ -21,6 +21,7 @@ You should comment out all portions of your portfolio that you have not complete
 Video link:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VXxgNMKxaE?si=erfkqwNb2pGp1LlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Description:
 
 For my starter project, I chose to build a calculator because I thought it would be a cool way to understand the basic mechanics of a device we use for simple math calculations every day. The process was quite challenging: I initially mixed up the steps, which took a while to correct, and my soldering iron was subpar, making it difficult to melt the solder wire properly. Additionally, assembling the plates was very frustrating due to the tiny and loose screws. Despite these obstacles, the experience was bittersweet. Completing the project and seeing the calculator work was incredibly satisfying, making all the effort and frustration worthwhile.
 
