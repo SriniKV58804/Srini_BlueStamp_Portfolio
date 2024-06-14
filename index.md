@@ -18,12 +18,14 @@ I chose the portable weather station because at first I thought it was a really 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Square Image</title>
+    <title>Rectangular Image</title>
 </head>
 <body>
-    <img src="Srini (1).jpg" alt="Description of the image" style = height: 400px;">
+    <img src="Srini (1).jpg" alt="Description of the image" style="width: 500px; height: 5000px;">
 </body>
 </html>
+This will set the image dimensions to 500px in width and 5000px in height.
+
 
 # Starter Project
 
