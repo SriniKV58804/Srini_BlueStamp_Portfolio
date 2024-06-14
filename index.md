@@ -13,8 +13,9 @@ I chose the portable weather station because at first I thought it was a really 
 |:--:|:--:|:--:|:--:|
 | Srinivas KV | Moreau Catholic Highschool | CS | Incoming Sophmore
 
-<img src="Srini (1).jpg" height="400px" width="400px">
-
+<div class="image-container">
+    <img src="Srini (1).jpg" alt="Description of the image">
+</div>
 
 # Starter Project
 
