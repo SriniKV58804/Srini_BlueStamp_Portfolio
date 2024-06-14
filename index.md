@@ -2,11 +2,12 @@
 I chose the portable weather station because at first I thought it was a really asthetic looking machine and when I saw it I thought I could maybe take it further like adding a alarm clock or being able to add the radio on it or since it will be connected to the internet I can add wallpapers and maybe even bluetooth. I saw so many possibilitys within this project and knew I had to choose it.
 
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
+<!--- This is an HTML comment in Markdown -->
+<!--- You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+```HTML -->
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
