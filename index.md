@@ -21,9 +21,7 @@ I chose the portable weather station because at first I thought it was a really 
     <title>Square Image</title>
 </head>
 <body>
-    <div style="width: 100px; height: 100px; overflow: hidden; position: relative;">
-        <img src="Srini (1).jpg" alt="Description of the image" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    </div>
+    <img src="Srini (1).jpg" alt="Description of the image" style="width: 100px; height: 100px;">
 </body>
 </html>
 
