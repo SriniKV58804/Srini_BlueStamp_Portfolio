@@ -12,8 +12,7 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Srinivas KV | Moreau Catholic Highschool | CS | Incoming Sophmore
 
-![Book logo](/least-github-pages/assets/logo.png)
-
+![Book logo](https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/blob/gh-pages/Srini%20(1).jpg?raw=true)
 
 
 # Starter Project
