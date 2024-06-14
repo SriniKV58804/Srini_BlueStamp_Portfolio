@@ -24,6 +24,7 @@ I chose the portable weather station because at first I thought it was a really 
     <img src="Srini (1).jpg" alt="Description of the image" style="width: 200px; height: 300px;">
 </body>
 </html>
+<div class="sixteen-by-nine-container"></div>
 
 
 # Starter Project
