@@ -14,6 +14,7 @@ I chose the portable weather station because at first I thought it was a really 
 | Srinivas KV | Moreau Catholic Highschool | CS | Incoming Sophmore
 
 ![Book logo](https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/blob/gh-pages/Srini%20(1).jpg?raw=true)
+<img src=Srini(1).jpg 1280 × 640
 
 
 # Starter Project
