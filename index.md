@@ -21,7 +21,7 @@ I chose the portable weather station because at first I thought it was a really 
     <title>Rectangular Image</title>
 </head>
 <body>
-    <img src="Srini (1).jpg" alt="Description of the image" style="width: 200px; height: 360px;">
+    <img src="Srini (1).jpg" alt="Description of the image" style="width: 200px; height: 300px;">
 </body>
 </html>
 
