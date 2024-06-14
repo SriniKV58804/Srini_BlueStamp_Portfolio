@@ -18,7 +18,7 @@ I chose the portable weather station because at first I thought it was a really 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rectangular Image</title>
+    
 </head>
 <body>
     <img src="Srini (1).jpg" alt="Description of the image" style="width: 200px; height: 250px;">
