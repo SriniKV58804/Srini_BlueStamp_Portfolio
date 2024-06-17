@@ -29,7 +29,7 @@ I chose the portable weather station because at first I thought it was a really 
 
 # Starter Project
 
-Video link:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VXxgNMKxaE?si=erfkqwNb2pGp1LlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
