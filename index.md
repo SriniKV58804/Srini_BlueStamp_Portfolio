@@ -168,18 +168,6 @@ secret.py:
 # This file is where you keep secret settings, passwords, and tokens!
 # If you put them in the code you risk committing that info or sharing it
 
-secrets = {
-    'ssid' : 'Stratford Guest',
-    'password' : 'WLstr@1999',
-    'timezone' : "America/Los_Angeles", # http://worldtimeapi.org/timezones
-    'aio_username' : "SriniKV",
-    'aio_key' : "aio_VPIR55nvUj7wdwMmiZtyXR1aUarS",
-    }
-secrets = {
-    'ssid' : 'Stratford Guest',
-    'password' : 'WLstr@1999',
-    'openweather_token' : '0f01b15d40e61b73e3ac6d24efde06b6'
-}
   
 ```
 openweather_graphics:
