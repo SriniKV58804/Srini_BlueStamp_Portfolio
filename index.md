@@ -28,7 +28,7 @@ I chose the portable weather station because at first I thought it was a really 
 
 
   
- # Final Milestone
+# Final Milestone
 
  <!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
