@@ -336,10 +336,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Adafruit PyPortal - CircuitPython Powered Internet Display | this item is the main board which does everything which connects to the internet and displays the weather data | $54.95 | <a href="https://www.adafruit.com/product/4116/"> Link </a> |
-| USB A/Micro Cable - 2m | This is used to connect the board to the computer or power on in general | $4.95
-| <a href="https://www.adafruit.com/product/2185/"> Link </a> |
-| Black Nylon Machine Screw and Stand-off Set – M2.5 Thread
-| the screws are used to put the stand together | $16.95 | <a href="https://www.adafruit.com/product/3299/"> Link </a> |
+| USB A/Micro Cable - 2m | This is used to connect the board to the computer or power on in general | $4.95| <a href="https://www.adafruit.com/product/2185/"> Link </a> |
+| Black Nylon Machine Screw and Stand-off Set – M2.5 Thread | the screws are used to put the stand together | $16.95 | <a href="https://www.adafruit.com/product/3299/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
