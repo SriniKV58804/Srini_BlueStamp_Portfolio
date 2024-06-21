@@ -27,25 +27,12 @@ I chose the portable weather station because at first I thought it was a really 
 <div class="sixteen-by-nine-container"></div>
 
 
-# Starter Project
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_VXxgNMKxaE?si=erfkqwNb2pGp1LlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-# Description
-
-For my starter project, I chose to build a calculator because I thought it would be a cool way to understand the basic mechanics of a device we use for simple math calculations every day. The process was quite challenging: I initially mixed up the steps, which took a while to correct, and my soldering iron was subpar, making it difficult to melt the solder wire properly. Additionally, assembling the plates was very frustrating due to the tiny and loose screws. Despite these obstacles, the experience was bittersweet. Completing the project and seeing the calculator work was incredibly satisfying, making all the effort and frustration worthwhile.
-
-
   
  # Final Milestone
 
  <!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xr4JSieIGDQ?si=W4m8opFMrFjnTArZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4zouhd0b40?si=aiF6BbjEz-n0E7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my third and final milestone, I installed the case for the board. My biggest challenge was that I wanted to use a 3D-printed case, but the screw holes weren't all the same size, so I had to use the default one from the kit. Additionally, the stickers were very difficult to remove because I have no nails. My biggest triumph at BSE was actually creating a working machine, despite struggling and making many mistakes along the way. In the future, I hope to learn more about building intricate machines and explore more projects.
 
@@ -71,13 +58,25 @@ For my second milestone, I focused on running and testing the code. It failed a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xr4JSieIGDQ?si=Cr2bdL1JQDSTqnhS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- <!--cFor your first milestone, describe what your project is and how you plan to build it. You can include:
+ <!-- For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your projectv -->
 
 In my first milestone, I focused on placing the code in the correct locations and organizing the files. I used Python as my programming language. My main challenge was not placing the code correctly and having too many code.py files, which caused confusion about where the main code should go. I had to restart six times, with the last attempt nearly complete, but I persevered and asked for help when needed. After successfully organizing the code, the next step was running it on the board.
+
+
+# Starter Project
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VXxgNMKxaE?si=erfkqwNb2pGp1LlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+# Description
+
+For my starter project, I chose to build a calculator because I thought it would be a cool way to understand the basic mechanics of a device we use for simple math calculations every day. The process was quite challenging: I initially mixed up the steps, which took a while to correct, and my soldering iron was subpar, making it difficult to melt the solder wire properly. Additionally, assembling the plates was very frustrating due to the tiny and loose screws. Despite these obstacles, the experience was bittersweet. Completing the project and seeing the calculator work was incredibly satisfying, making all the effort and frustration worthwhile.
 
 
 # Schematics 
