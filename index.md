@@ -81,7 +81,8 @@ In my first milestone, I focused on placing the code in the correct locations an
 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+ <img width="652" alt="Screenshot 2024-06-21 at 11 02 43 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/aa0631a3-d5e2-43ae-887b-5a52f30b43e9">
+
 
 # Code
 <!-- Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
