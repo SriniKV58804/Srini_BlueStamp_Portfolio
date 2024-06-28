@@ -34,7 +34,7 @@ I chose the portable weather station because at first I thought it was a really 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4zouhd0b40?si=aiF6BbjEz-n0E7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my third and final milestone, I installed the case for the board. My biggest challenge was that I wanted to use a 3D-printed case, but the screw holes weren't all the same size, so I had to use the default one from the kit. Additionally, the stickers were very difficult to remove because I have no nails. My biggest triumph at BSE was actually creating a working machine, despite struggling and making many mistakes along the way. In the future, I hope to learn more about building intricate machines and explore more projects.
+For my third and final milestone, I installed the case for the board. My biggest challenge was that I wanted to use a 3D-printed case, but the screw holes weren't all the same size, so I had to use the default one from the kit. Additionally, the stickers were very difficult to remove because I have no nails. My biggest triumph at BSE wa s actually creating a working machine, despite struggling and making many mistakes along the way. In the future, I hope to learn more about building intricate machines and explore more projects.
 
 
 # Second Milestone
@@ -333,10 +333,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 | USB A/Micro Cable - 2m | This is used to connect the board to the computer or power on in general | $4.95| <a href="https://www.adafruit.com/product/2185/"> Link </a> |
 | Black Nylon Machine Screw and Stand-off Set – M2.5 Thread | the screws are used to put the stand together | $16.95 | <a href="https://www.adafruit.com/product/3299/"> Link </a> |
 
-# Other Resources/Examples
+<!-- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here. 
+To watch the BSE tutorial on how to create a portfolio, click here.--> 
