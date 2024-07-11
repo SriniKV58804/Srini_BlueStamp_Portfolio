@@ -75,6 +75,9 @@ For my starter project, I chose to build a calculator because I thought it would
 
 # Schematics 
  <img width="652" alt="Screenshot 2024-06-21 at 11 02 43 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/aa0631a3-d5e2-43ae-887b-5a52f30b43e9">
+ <img width="943" alt="Screenshot 2024-07-11 at 10 19 09 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/052bd133-1348-4971-9ad8-8c7e919cd74f">
+<img width="895" alt="Screenshot 2024-07-11 at 10 18 50 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/4409796f-948b-43ee-9adc-6b6abeaff7f1">
+
 
 
 # Code
