@@ -27,6 +27,18 @@ I chose the portable weather station because at first I thought it was a really 
 <div class="sixteen-by-nine-container"></div>
 
 
+# Modifications
+
+
+
+For my final modification I started with many ambitious ideas for example being able to play your spotify playlist or songs on it or a bit more of an advanced mod which is using machine learning to predict weather or implementing a gps so you wouldn't have to manually change the location to get the weather you want. These were all some of my ideas and I was gonna go with using machine learing to predict weather data but that all changed when the case that was already given in the package broke which gave me an oppertunity to learn how to CAD and 3D print my case. I've heard about CAD and knew it was a very important skill so I scrapped all of my ideas and started cadding my case. It was not easy at all. I went through many prints for both my front and back enclosure, 6 in total. it was frustrating but I learned the basics of it and hope learn more about and make cool 3D prints and designs. 
+
+
+
+
+
+
+
   
 # Final Milestone
 
@@ -34,7 +46,9 @@ I chose the portable weather station because at first I thought it was a really 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4zouhd0b40?si=aiF6BbjEz-n0E7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my third and final milestone, I installed the case for the board. My biggest challenge was that I wanted to use a 3D-printed case, but the screw holes weren't all the same size, so I had to use the default one from the kit. Additionally, the stickers were very difficult to remove because I have no nails. My biggest triumph at BSE wa s actually creating a working machine, despite struggling and making many mistakes along the way. In the future, I hope to learn more about building intricate machines and explore more projects.
+For my third and final milestone, I installed the case for the board. My biggest challenge was that I wanted to use a 3D-printed case, but the screw holes weren't all the same size, so I had to use the default one from the kit. Additionally, the stickers were very difficult to remove because I have no nails. Despite these issues, I managed to successfully install the case, which felt like a significant achievement.
+
+My biggest triumph at BSE was actually creating a working machine, despite struggling and making many mistakes along the way. This experience taught me the importance of persistence and problem-solving. In the future, I hope to learn more about building intricate machines and explore more projects. I'm excited about the possibilities and eager to take on new challenges that will help me grow my skills even further.
 
 
 # Second Milestone
@@ -49,7 +63,8 @@ For my third and final milestone, I installed the case for the board. My biggest
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone -->
 
-For my second milestone, I focused on running and testing the code. It failed a few times, but by carefully troubleshooting, I eventually got it to work. In my first milestone, I struggled with the code and where to place it, but after thoroughly following the instructions, I managed to get it running. For my final milestone, I need to install the case for the board.
+For my second milestone, I focused on running and testing the code. It failed a few times, but by carefully troubleshooting, I eventually got it to work. This process taught me valuable debugging skills and the importance of patience. In my first milestone, I struggled with the code and where to place it, but after thoroughly following the instructions, I managed to get it running. This initial success boosted my confidence and motivated me to tackle the next challenges with more determination. In my final milestone I will need to install the case 
+
 
 
 # First Milestone
