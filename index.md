@@ -120,6 +120,7 @@ For my starter project, I chose to build a calculator because I thought it would
  <img width="943" alt="Screenshot 2024-07-11 at 10 19 09 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/052bd133-1348-4971-9ad8-8c7e919cd74f">
 
 <img width="848" alt="Screenshot 2024-07-12 at 9 07 22 AM" src="https://github.com/user-attachments/assets/a5369d6c-300f-45cf-b4a7-e3a9e251c6f4">
+ <img src="pyportal board.png" alt="Description of the image" height=500px>
 
 
 
