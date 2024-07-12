@@ -76,7 +76,7 @@ My biggest triumph at BSE was actually creating a working machine, despite strug
 For my second milestone, I focused on running and testing the code hoping for no errors. After a few attempts it did what it was supposed to do which is display the time,location,temperature, and the display of the weather. 
 
 ## Challenges
-I ran  It failed a few times, but by carefully troubleshooting, I eventually got it to work. While it did work in the end the major setback the I faced was it worked for a few minutes but stopped working after.This made me frustrated and I just restarted the project and then got it to work again. This process taught me valuable debugging skills and the importance of patience. In my first milestone, I struggled with the code and where to place it, but after thoroughly following the instructions, I managed to get it running. This initial success boosted my confidence and motivated me to tackle the next challenges with more determination. 
+I ran It failed a few times, but by carefully troubleshooting, I eventually got it to work. While it did work in the end the major setback  I faced was it worked for a few minutes but stopped working after.This made me frustrated and I just restarted the project and then got it to work again. This process taught me valuable debugging skills and the importance of patience. In my first milestone, I struggled with the code and where to place it, but after thoroughly following the instructions, I managed to get it running. This initial success boosted my confidence and motivated me to tackle the next challenges with more determination. 
 
 ## Whats next?
 For my final milestone I will need to install the case 
@@ -94,7 +94,7 @@ For my final milestone I will need to install the case
 
 
 ## Summary
-In my first milestone, I focused on placing the code in the correct locations and organizing the files for example I would need to use my setting.toml file to connect to the internet and my secrets.py file for my weather API. I used Python as my programming language.
+In my first milestone, I focused on placing the code in the correct locations and organizing the files for example I would need to use my setting.toml file to connect to the internet and my secrets.py file for my weather API. I used python as my programming language.
 
 ## Challanges
 My main challenge was not placing the code correctly and having too many code.py files, which caused confusion about where the main code should go. I had to restart six times, with the last attempt nearly complete, but I persevered and asked for help when needed. After successfully organizing the code.
