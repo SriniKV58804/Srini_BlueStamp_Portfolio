@@ -39,8 +39,7 @@ For my final modification I started with many ambitious ideas for example being 
 
 6 of my failed designs: 
 
-![IMG_0717](https://github.com/user-attachments/assets/123a4761-6f0e-4dab-b0cc-a04a2262d40a)
-
+  <img src="IMG_0717 (1).jpg" alt="Description of the image" height=500px>
 
 
   
@@ -83,7 +82,7 @@ I ran  It failed a few times, but by carefully troubleshooting, I eventually got
 For my final milestone I will need to install the case 
 
 
-![IMG_0718](https://github.com/user-attachments/assets/9ff7e2c7-bcae-4802-94ef-40f37a22c9c9)
+  <img src="IMG_0718.jpg" alt="Description of the image" height=500px>
 
 
 
