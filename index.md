@@ -33,9 +33,13 @@ I chose the portable weather station because at first I thought it was a really 
 
 For my final modification I started with many ambitious ideas for example being able to play your spotify playlist or songs on it or a bit more of an advanced mod which is using machine learning to predict weather or implementing a gps so you wouldn't have to manually change the location to get the weather you want. These were all some of my ideas and I was gonna go with using machine learing to predict weather data but that all changed when the case that was already given in the package broke which gave me an oppertunity to learn how to CAD and 3D print my case. I've heard about CAD and knew it was a very important skill so I scrapped all of my ideas and started cadding my case. It was not easy at all. I went through many prints for both my front and back enclosure, 6 in total. it was frustrating but I learned the basics of it and hope learn more about and make cool 3D prints and designs. 
 
+![IMG_0715](https://github.com/user-attachments/assets/899d8cb1-b39e-409a-874f-f7fa0e96220d)
 
+![IMG_0716](https://github.com/user-attachments/assets/167e5b5b-099e-4373-9823-2f341bd7abcf)
 
+6 of my failed designs: 
 
+![IMG_0717](https://github.com/user-attachments/assets/123a4761-6f0e-4dab-b0cc-a04a2262d40a)
 
 
 
@@ -91,7 +95,8 @@ For my starter project, I chose to build a calculator because I thought it would
 # Schematics 
  <img width="652" alt="Screenshot 2024-06-21 at 11 02 43 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/aa0631a3-d5e2-43ae-887b-5a52f30b43e9">
  <img width="943" alt="Screenshot 2024-07-11 at 10 19 09 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/052bd133-1348-4971-9ad8-8c7e919cd74f">
-<img width="895" alt="Screenshot 2024-07-11 at 10 18 50 AM" src="https://github.com/SriniKV58804/Srini_BlueStamp_Portfolio/assets/172419240/4409796f-948b-43ee-9adc-6b6abeaff7f1">
+
+<img width="848" alt="Screenshot 2024-07-12 at 9 07 22 AM" src="https://github.com/user-attachments/assets/a5369d6c-300f-45cf-b4a7-e3a9e251c6f4">
 
 
 
