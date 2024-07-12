@@ -344,13 +344,13 @@ settings.toml:
 #this file contains the wifi ssid and password and connects the board to the internet which is the first step in it accesing the weather data
 
 ```
-
+Credit for all this code: <a href= "https://learn.adafruit.com/pyportal-weather-station/overview"> </a>
 
 # Bill of Materials
 <!-- Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. --> 
 
-Credit for all this code:  <a href="https://learn.adafruit.com/pyportal-weather-station/overview"> Link </a>
+
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
