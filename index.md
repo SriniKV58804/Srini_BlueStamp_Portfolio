@@ -1,5 +1,5 @@
 # Portable Weather Station
-I chose the portable weather station because at first I thought it was a really asthetic looking machine and when I saw it I thought I could maybe take it further like adding a alarm clock or being able to add the radio on it or since it will be connected to the internet I can add wallpapers and maybe even bluetooth. I saw so many possibilitys within this project and knew I had to choose it.
+I chose the portable weather station because at first I thought it was a really asthetic looking machine and when I saw it I thought I could maybe take it further like adding a GPS so it could change the weather and time based on the location or use AI to predict the weather or even some asthetic changes for example  I can add wallpapers and maybe even the abilty to play your spotify playlist. I saw so many possibilitys within this project and knew I had to choose it.
 
 
 <!--- This is an HTML comment in Markdown -->
