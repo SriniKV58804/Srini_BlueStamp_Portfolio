@@ -29,7 +29,7 @@ I chose the portable weather station because at first I thought it was a really 
 
 # Modifications
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WfwoUn7b2ic?si=-qMur9wI0vL9UQ6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final modification I started with many ambitious ideas for example being able to play your spotify playlist or songs on it or a bit more of an advanced mod which is using machine learning to predict weather or implementing a gps so you wouldn't have to manually change the location to get the weather you want. These were all some of my ideas and I was gonna go with using machine learing to predict weather data but that all changed when the case that was already given in the package broke which gave me an oppertunity to learn how to CAD and 3D print my case. I've heard about CAD and knew it was a very important skill so I scrapped all of my ideas and started cadding my case. It was not easy at all. I went through many prints for both my front and back enclosure, 6 in total. it was frustrating but I learned the basics of it and hope learn more about and make cool 3D prints and designs. 
 
